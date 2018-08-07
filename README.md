@@ -1,1 +1,1 @@
-default tempolate html mailing
+default template html mailing
